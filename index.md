@@ -19,6 +19,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+# Fabian Heim, PhD
+## Systems Neuroscientist interested in all things data
+![fh_pic](https://user-images.githubusercontent.com/66937930/155850403-b538e25e-66cf-4b1d-87b7-2de48ec5069a.jpg)
+
+
 - Bulleted
 - List
 
