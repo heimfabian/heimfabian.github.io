@@ -1,5 +1,5 @@
-# Fabian Heim, PhD
-## Systems Neuroscientist interested in all things data
+# This site is a work in progress
+## If you would like to get in contact, send me an eMail to fheim@bi.mpg.de
 ![fh_pic](https://user-images.githubusercontent.com/66937930/155850403-b538e25e-66cf-4b1d-87b7-2de48ec5069a.jpg)
 
 You can use the [editor on GitHub](https://github.com/heimfabian/heimfabian.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
